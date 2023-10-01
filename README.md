@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="your_profile_picture_url" alt="Mouhssine Rifaki">
-</div>
-
 # Hello, I'm Mouhssine Rifaki 👋
 
 I'm a master's student in Finance at Paris Dauphine University - PSL with a deep interest in computational finance and financial modeling. I enjoy harnessing the power of programming to solve complex financial problems and make data-driven decisions.
