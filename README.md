@@ -25,7 +25,5 @@ Here are some of the programming languages and tools I've worked with:
 
 Feel free to reach out to me through any of the following channels:
 
-- LinkedIn: [linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/yourlinkedinprofile)
-- Email: contact@mrifaki.me
-
-Thanks for visiting my GitHub profile!
+- LinkedIn: [linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/mouhssine-rifaki)
+- Email: mouhssine.rifaki@dauphine.eu
